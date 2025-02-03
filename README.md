@@ -1,6 +1,3 @@
-Here is a comprehensive **README.md** file for your project in English:
-
----
 
 # 📌 **Othello AI Game**
 
