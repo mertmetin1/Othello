@@ -58,6 +58,7 @@ java Game
 
 ## 🎮 **How to Play**
 ![HD-wallpaper-othello-board-game-reversi](https://github.com/user-attachments/assets/60bd9726-2ea9-4aee-b4a5-73d0422cb7f3)
+
 When you start the program, the following menu appears:
 
 ```
